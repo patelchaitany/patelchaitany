@@ -26,20 +26,24 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-**ML & AI:**  
+**Machine Learning & AI:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
+![LangChain](https://img.shields.io/badge/LangChain-2C8EBB?style=for-the-badge&logo=chainlink&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/LangGraph-4B275F?style=for-the-badge&logo=graph&logoColor=white)  
 
 **Frameworks & Tools:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 
-**Databases:**  
+**Databases & Storage:**  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
@@ -47,8 +51,8 @@
 
 ### 🚀 Featured Projects
 
-- 🔹 [LowRestiT](https://github.com/patelchaitany/Guj_eng) – OCR-free Gujarati–English translation using CLIP-based Vision Transformer (**0.57 BLEU score**).  
-- 🔹 [BitTorrent Client](https://github.com/patelchaitany/bit_torrent_v1) – Built a distributed P2P client with DHT + PEX, achieving **10MB/s with only 50 peers**.  
+- 🔹 [LowRestiT](https://github.com/patelchaitany/Guj_eng) – OCR-free Gujarati–English translation using CLIP-based Vision Transformer.  
+- 🔹 [BitTorrent Client](https://github.com/patelchaitany/bit_torrent_v1) – Built a distributed P2P client with DHT + PEX.  
 
 ---
 
