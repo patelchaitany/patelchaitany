@@ -33,7 +33,13 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
 ![LangChain](https://img.shields.io/badge/LangChain-2C8EBB?style=for-the-badge&logo=chainlink&logoColor=white) 
-![LangGraph](https://img.shields.io/badge/LangGraph-4B275F?style=for-the-badge&logo=graph&logoColor=white)  
+![LangGraph](https://img.shields.io/badge/LangGraph-4B275F?style=for-the-badge&logo=graph&logoColor=white) 
+![LangSmith](https://img.shields.io/badge/LangSmith-0A192F?style=for-the-badge&logo=airplayvideo&logoColor=white)  
+
+**LLM Observability & Experiment Tracking:**  
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
+![LangSmith](https://img.shields.io/badge/LangSmith-0A192F?style=for-the-badge&logo=airplayvideo&logoColor=white)  
 
 **Frameworks & Tools:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
