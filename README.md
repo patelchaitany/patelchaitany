@@ -88,6 +88,11 @@
 
 ---
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=patelchaitany)
+
+
+
 ### ✍️ Random Dev Quote
 
 <p align="center">
