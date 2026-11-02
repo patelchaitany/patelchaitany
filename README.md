@@ -62,6 +62,14 @@
 
 ---
 
+### 🏢 Our Org
+
+<p align="center">
+  <a href="https://github.com/C-P-S-P"><img src="./org-stats/C-P-S-P.svg" alt="C-P-S-P organization stats" /></a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 ![](./profile-3d-contrib/profile-gitblock.svg)

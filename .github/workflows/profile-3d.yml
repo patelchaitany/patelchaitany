@@ -18,6 +18,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Generate C-P-S-P org stats card
+        run: python3 .github/scripts/org_stats.py C-P-S-P org-stats/C-P-S-P.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
