@@ -64,6 +64,8 @@
 
 ### 📊 GitHub Stats
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patelchaitany&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
