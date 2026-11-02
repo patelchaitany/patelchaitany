@@ -74,34 +74,7 @@
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patelchaitany&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=patelchaitany&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelchaitany&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
 ---
-
-### 🏆 Achievements
-
-- 🥇 **Amazon ML Challenge** – Top **1,000 / 72,000+**, developed a high-speed OCR system.  
-- 🏎️ **AWS DeepRacer** – Top **10% in India**, showcasing reinforcement learning for autonomous driving.  
-
----
-
-### 📜 Certifications
-
-- **NVIDIA | Fundamentals of Deep Learning** – CNNs, Transfer Learning, Model Tuning ([Certificate](https://learn.nvidia.com/certificates?id=oQ42OU6PQlGkBrvZUH7QKg))  
-- **Kaggle | Computer Vision** – Image classification, object detection, and augmentation ([Certificate](https://www.kaggle.com/learn/certification/chaitanypatel/computer-vision))  
-
----
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=patelchaitany)
-
-
 
 ### ✍️ Random Dev Quote
 
